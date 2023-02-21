@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.AssemblyInfo.cs
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\POINTER\bin\Debug\netcoreapp3.1\POINTER.exe
+C:\Users\User\source\repos\POINTER\bin\Debug\netcoreapp3.1\POINTER.deps.json
+C:\Users\User\source\repos\POINTER\bin\Debug\netcoreapp3.1\POINTER.runtimeconfig.json
+C:\Users\User\source\repos\POINTER\bin\Debug\netcoreapp3.1\POINTER.runtimeconfig.dev.json
+C:\Users\User\source\repos\POINTER\bin\Debug\netcoreapp3.1\POINTER.dll
+C:\Users\User\source\repos\POINTER\bin\Debug\netcoreapp3.1\POINTER.pdb
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.dll
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.pdb
+C:\Users\User\source\repos\POINTER\obj\Debug\netcoreapp3.1\POINTER.genruntimeconfig.cache

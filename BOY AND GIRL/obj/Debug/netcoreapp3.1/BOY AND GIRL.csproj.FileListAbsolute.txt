@@ -1,0 +1,14 @@
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.csproj.AssemblyReference.cache
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.AssemblyInfoInputs.cache
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.AssemblyInfo.cs
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.csproj.CoreCompileInputs.cache
+C:\C SHARP\BOY AND GIRL\bin\Debug\netcoreapp3.1\BOY AND GIRL.exe
+C:\C SHARP\BOY AND GIRL\bin\Debug\netcoreapp3.1\BOY AND GIRL.deps.json
+C:\C SHARP\BOY AND GIRL\bin\Debug\netcoreapp3.1\BOY AND GIRL.runtimeconfig.json
+C:\C SHARP\BOY AND GIRL\bin\Debug\netcoreapp3.1\BOY AND GIRL.runtimeconfig.dev.json
+C:\C SHARP\BOY AND GIRL\bin\Debug\netcoreapp3.1\BOY AND GIRL.dll
+C:\C SHARP\BOY AND GIRL\bin\Debug\netcoreapp3.1\BOY AND GIRL.pdb
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.dll
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.pdb
+C:\C SHARP\BOY AND GIRL\obj\Debug\netcoreapp3.1\BOY AND GIRL.genruntimeconfig.cache

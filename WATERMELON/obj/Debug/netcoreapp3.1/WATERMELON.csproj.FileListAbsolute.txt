@@ -1,0 +1,14 @@
+G:\C SHARP\WATERMELON\bin\Debug\netcoreapp3.1\WATERMELON.exe
+G:\C SHARP\WATERMELON\bin\Debug\netcoreapp3.1\WATERMELON.deps.json
+G:\C SHARP\WATERMELON\bin\Debug\netcoreapp3.1\WATERMELON.runtimeconfig.json
+G:\C SHARP\WATERMELON\bin\Debug\netcoreapp3.1\WATERMELON.runtimeconfig.dev.json
+G:\C SHARP\WATERMELON\bin\Debug\netcoreapp3.1\WATERMELON.dll
+G:\C SHARP\WATERMELON\bin\Debug\netcoreapp3.1\WATERMELON.pdb
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.csproj.AssemblyReference.cache
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.AssemblyInfoInputs.cache
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.AssemblyInfo.cs
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.csproj.CoreCompileInputs.cache
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.dll
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.pdb
+G:\C SHARP\WATERMELON\obj\Debug\netcoreapp3.1\WATERMELON.genruntimeconfig.cache

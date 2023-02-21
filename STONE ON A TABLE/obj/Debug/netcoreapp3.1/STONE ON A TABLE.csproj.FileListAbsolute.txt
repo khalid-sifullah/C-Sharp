@@ -1,0 +1,14 @@
+C:\C SHARP\STONE ON A TABLE\bin\Debug\netcoreapp3.1\STONE ON A TABLE.exe
+C:\C SHARP\STONE ON A TABLE\bin\Debug\netcoreapp3.1\STONE ON A TABLE.deps.json
+C:\C SHARP\STONE ON A TABLE\bin\Debug\netcoreapp3.1\STONE ON A TABLE.runtimeconfig.json
+C:\C SHARP\STONE ON A TABLE\bin\Debug\netcoreapp3.1\STONE ON A TABLE.runtimeconfig.dev.json
+C:\C SHARP\STONE ON A TABLE\bin\Debug\netcoreapp3.1\STONE ON A TABLE.dll
+C:\C SHARP\STONE ON A TABLE\bin\Debug\netcoreapp3.1\STONE ON A TABLE.pdb
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.csproj.AssemblyReference.cache
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.AssemblyInfoInputs.cache
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.AssemblyInfo.cs
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.csproj.CoreCompileInputs.cache
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.dll
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.pdb
+C:\C SHARP\STONE ON A TABLE\obj\Debug\netcoreapp3.1\STONE ON A TABLE.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.csproj.AssemblyReference.cache
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.AssemblyInfoInputs.cache
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.AssemblyInfo.cs
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.csproj.CoreCompileInputs.cache
+G:\C SHARP\TRIANGLE\bin\Debug\netcoreapp3.1\TRIANGLE.exe
+G:\C SHARP\TRIANGLE\bin\Debug\netcoreapp3.1\TRIANGLE.deps.json
+G:\C SHARP\TRIANGLE\bin\Debug\netcoreapp3.1\TRIANGLE.runtimeconfig.json
+G:\C SHARP\TRIANGLE\bin\Debug\netcoreapp3.1\TRIANGLE.runtimeconfig.dev.json
+G:\C SHARP\TRIANGLE\bin\Debug\netcoreapp3.1\TRIANGLE.dll
+G:\C SHARP\TRIANGLE\bin\Debug\netcoreapp3.1\TRIANGLE.pdb
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.dll
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.pdb
+G:\C SHARP\TRIANGLE\obj\Debug\netcoreapp3.1\TRIANGLE.genruntimeconfig.cache

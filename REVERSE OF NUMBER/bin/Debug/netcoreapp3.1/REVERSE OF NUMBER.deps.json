@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "REVERSE OF NUMBER/1.0.0": {
+        "runtime": {
+          "REVERSE OF NUMBER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REVERSE OF NUMBER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

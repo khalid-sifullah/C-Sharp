@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RETURN", "RETURN.csproj", "{B6B56CC2-FFB9-4ABE-B34A-0FD71BF890EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B56CC2-FFB9-4ABE-B34A-0FD71BF890EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B56CC2-FFB9-4ABE-B34A-0FD71BF890EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B56CC2-FFB9-4ABE-B34A-0FD71BF890EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B56CC2-FFB9-4ABE-B34A-0FD71BF890EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3545B8-0217-46E3-A3B2-79C2B86E8FDD}
+	EndGlobalSection
+EndGlobal

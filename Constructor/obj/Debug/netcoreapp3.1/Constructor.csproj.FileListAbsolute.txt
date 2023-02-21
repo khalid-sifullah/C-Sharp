@@ -1,0 +1,14 @@
+G:\C SHARP\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+G:\C SHARP\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+G:\C SHARP\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+G:\C SHARP\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+G:\C SHARP\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+G:\C SHARP\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.AssemblyReference.cache
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+G:\C SHARP\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache

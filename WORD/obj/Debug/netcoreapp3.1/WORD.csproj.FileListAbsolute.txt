@@ -1,0 +1,14 @@
+C:\C SHARP\WORD\bin\Debug\netcoreapp3.1\WORD.exe
+C:\C SHARP\WORD\bin\Debug\netcoreapp3.1\WORD.deps.json
+C:\C SHARP\WORD\bin\Debug\netcoreapp3.1\WORD.runtimeconfig.json
+C:\C SHARP\WORD\bin\Debug\netcoreapp3.1\WORD.runtimeconfig.dev.json
+C:\C SHARP\WORD\bin\Debug\netcoreapp3.1\WORD.dll
+C:\C SHARP\WORD\bin\Debug\netcoreapp3.1\WORD.pdb
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.csproj.AssemblyReference.cache
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.AssemblyInfoInputs.cache
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.AssemblyInfo.cs
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.csproj.CoreCompileInputs.cache
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.dll
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.pdb
+C:\C SHARP\WORD\obj\Debug\netcoreapp3.1\WORD.genruntimeconfig.cache

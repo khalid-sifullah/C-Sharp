@@ -1,0 +1,14 @@
+G:\C SHARP\Exeption\bin\Debug\netcoreapp3.1\Exeption.exe
+G:\C SHARP\Exeption\bin\Debug\netcoreapp3.1\Exeption.deps.json
+G:\C SHARP\Exeption\bin\Debug\netcoreapp3.1\Exeption.runtimeconfig.json
+G:\C SHARP\Exeption\bin\Debug\netcoreapp3.1\Exeption.runtimeconfig.dev.json
+G:\C SHARP\Exeption\bin\Debug\netcoreapp3.1\Exeption.dll
+G:\C SHARP\Exeption\bin\Debug\netcoreapp3.1\Exeption.pdb
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.csproj.AssemblyReference.cache
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.AssemblyInfoInputs.cache
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.AssemblyInfo.cs
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.csproj.CoreCompileInputs.cache
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.dll
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.pdb
+G:\C SHARP\Exeption\obj\Debug\netcoreapp3.1\Exeption.genruntimeconfig.cache

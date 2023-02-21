@@ -1,0 +1,14 @@
+G:\C SHARP\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.exe
+G:\C SHARP\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.deps.json
+G:\C SHARP\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.runtimeconfig.json
+G:\C SHARP\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.runtimeconfig.dev.json
+G:\C SHARP\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.dll
+G:\C SHARP\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.pdb
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.csproj.AssemblyReference.cache
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.AssemblyInfoInputs.cache
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.AssemblyInfo.cs
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.csproj.CoreCompileInputs.cache
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.dll
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.pdb
+G:\C SHARP\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.genruntimeconfig.cache

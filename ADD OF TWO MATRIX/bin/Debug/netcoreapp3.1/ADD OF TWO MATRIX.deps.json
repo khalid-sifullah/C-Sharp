@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ADD OF TWO MATRIX/1.0.0": {
+        "runtime": {
+          "ADD OF TWO MATRIX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ADD OF TWO MATRIX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

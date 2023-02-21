@@ -1,0 +1,14 @@
+C:\C SHARP\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.exe
+C:\C SHARP\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.deps.json
+C:\C SHARP\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.runtimeconfig.json
+C:\C SHARP\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.runtimeconfig.dev.json
+C:\C SHARP\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.dll
+C:\C SHARP\Soldier and Bananas\bin\Debug\netcoreapp3.1\Soldier and Bananas.pdb
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.csproj.AssemblyReference.cache
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.AssemblyInfoInputs.cache
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.AssemblyInfo.cs
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.csproj.CoreCompileInputs.cache
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.dll
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.pdb
+C:\C SHARP\Soldier and Bananas\obj\Debug\netcoreapp3.1\Soldier and Bananas.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\C SHARP\The way to word\bin\Debug\netcoreapp3.1\The way to word.exe
+G:\C SHARP\The way to word\bin\Debug\netcoreapp3.1\The way to word.deps.json
+G:\C SHARP\The way to word\bin\Debug\netcoreapp3.1\The way to word.runtimeconfig.json
+G:\C SHARP\The way to word\bin\Debug\netcoreapp3.1\The way to word.runtimeconfig.dev.json
+G:\C SHARP\The way to word\bin\Debug\netcoreapp3.1\The way to word.dll
+G:\C SHARP\The way to word\bin\Debug\netcoreapp3.1\The way to word.pdb
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.csproj.AssemblyReference.cache
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.AssemblyInfoInputs.cache
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.AssemblyInfo.cs
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.csproj.CoreCompileInputs.cache
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.dll
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.pdb
+G:\C SHARP\The way to word\obj\Debug\netcoreapp3.1\The way to word.genruntimeconfig.cache

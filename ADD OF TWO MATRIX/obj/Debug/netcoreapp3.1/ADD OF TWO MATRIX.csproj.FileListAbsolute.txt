@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ADD OF TWO MATRIX\bin\Debug\netcoreapp3.1\ADD OF TWO MATRIX.exe
+C:\Users\User\source\repos\ADD OF TWO MATRIX\bin\Debug\netcoreapp3.1\ADD OF TWO MATRIX.deps.json
+C:\Users\User\source\repos\ADD OF TWO MATRIX\bin\Debug\netcoreapp3.1\ADD OF TWO MATRIX.runtimeconfig.json
+C:\Users\User\source\repos\ADD OF TWO MATRIX\bin\Debug\netcoreapp3.1\ADD OF TWO MATRIX.runtimeconfig.dev.json
+C:\Users\User\source\repos\ADD OF TWO MATRIX\bin\Debug\netcoreapp3.1\ADD OF TWO MATRIX.dll
+C:\Users\User\source\repos\ADD OF TWO MATRIX\bin\Debug\netcoreapp3.1\ADD OF TWO MATRIX.pdb
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.AssemblyInfo.cs
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.dll
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.pdb
+C:\Users\User\source\repos\ADD OF TWO MATRIX\obj\Debug\netcoreapp3.1\ADD OF TWO MATRIX.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\C SHARP\To count the word number in a string\bin\Debug\netcoreapp3.1\To count the word number in a string.exe
+C:\C SHARP\To count the word number in a string\bin\Debug\netcoreapp3.1\To count the word number in a string.deps.json
+C:\C SHARP\To count the word number in a string\bin\Debug\netcoreapp3.1\To count the word number in a string.runtimeconfig.json
+C:\C SHARP\To count the word number in a string\bin\Debug\netcoreapp3.1\To count the word number in a string.runtimeconfig.dev.json
+C:\C SHARP\To count the word number in a string\bin\Debug\netcoreapp3.1\To count the word number in a string.dll
+C:\C SHARP\To count the word number in a string\bin\Debug\netcoreapp3.1\To count the word number in a string.pdb
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.csproj.AssemblyReference.cache
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.AssemblyInfoInputs.cache
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.AssemblyInfo.cs
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.csproj.CoreCompileInputs.cache
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.dll
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.pdb
+C:\C SHARP\To count the word number in a string\obj\Debug\netcoreapp3.1\To count the word number in a string.genruntimeconfig.cache

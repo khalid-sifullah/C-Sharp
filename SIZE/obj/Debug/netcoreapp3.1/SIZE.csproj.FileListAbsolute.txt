@@ -1,0 +1,14 @@
+G:\C SHARP\SIZE\bin\Debug\netcoreapp3.1\SIZE.exe
+G:\C SHARP\SIZE\bin\Debug\netcoreapp3.1\SIZE.deps.json
+G:\C SHARP\SIZE\bin\Debug\netcoreapp3.1\SIZE.runtimeconfig.json
+G:\C SHARP\SIZE\bin\Debug\netcoreapp3.1\SIZE.runtimeconfig.dev.json
+G:\C SHARP\SIZE\bin\Debug\netcoreapp3.1\SIZE.dll
+G:\C SHARP\SIZE\bin\Debug\netcoreapp3.1\SIZE.pdb
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.csproj.AssemblyReference.cache
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.AssemblyInfoInputs.cache
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.AssemblyInfo.cs
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.csproj.CoreCompileInputs.cache
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.dll
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.pdb
+G:\C SHARP\SIZE\obj\Debug\netcoreapp3.1\SIZE.genruntimeconfig.cache

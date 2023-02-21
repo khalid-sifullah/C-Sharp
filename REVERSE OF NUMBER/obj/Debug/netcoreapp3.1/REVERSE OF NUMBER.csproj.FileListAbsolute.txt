@@ -1,0 +1,14 @@
+G:\C SHARP\REVERSE OF NUMBER\bin\Debug\netcoreapp3.1\REVERSE OF NUMBER.exe
+G:\C SHARP\REVERSE OF NUMBER\bin\Debug\netcoreapp3.1\REVERSE OF NUMBER.deps.json
+G:\C SHARP\REVERSE OF NUMBER\bin\Debug\netcoreapp3.1\REVERSE OF NUMBER.runtimeconfig.json
+G:\C SHARP\REVERSE OF NUMBER\bin\Debug\netcoreapp3.1\REVERSE OF NUMBER.runtimeconfig.dev.json
+G:\C SHARP\REVERSE OF NUMBER\bin\Debug\netcoreapp3.1\REVERSE OF NUMBER.dll
+G:\C SHARP\REVERSE OF NUMBER\bin\Debug\netcoreapp3.1\REVERSE OF NUMBER.pdb
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.csproj.AssemblyReference.cache
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.AssemblyInfoInputs.cache
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.AssemblyInfo.cs
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.csproj.CoreCompileInputs.cache
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.dll
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.pdb
+G:\C SHARP\REVERSE OF NUMBER\obj\Debug\netcoreapp3.1\REVERSE OF NUMBER.genruntimeconfig.cache

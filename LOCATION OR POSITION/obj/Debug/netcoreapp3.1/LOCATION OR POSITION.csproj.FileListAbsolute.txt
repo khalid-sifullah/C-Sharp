@@ -1,0 +1,14 @@
+G:\C SHARP\LOCATION OR POSITION\bin\Debug\netcoreapp3.1\LOCATION OR POSITION.exe
+G:\C SHARP\LOCATION OR POSITION\bin\Debug\netcoreapp3.1\LOCATION OR POSITION.deps.json
+G:\C SHARP\LOCATION OR POSITION\bin\Debug\netcoreapp3.1\LOCATION OR POSITION.runtimeconfig.json
+G:\C SHARP\LOCATION OR POSITION\bin\Debug\netcoreapp3.1\LOCATION OR POSITION.runtimeconfig.dev.json
+G:\C SHARP\LOCATION OR POSITION\bin\Debug\netcoreapp3.1\LOCATION OR POSITION.dll
+G:\C SHARP\LOCATION OR POSITION\bin\Debug\netcoreapp3.1\LOCATION OR POSITION.pdb
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.csproj.AssemblyReference.cache
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.AssemblyInfoInputs.cache
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.AssemblyInfo.cs
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.csproj.CoreCompileInputs.cache
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.dll
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.pdb
+G:\C SHARP\LOCATION OR POSITION\obj\Debug\netcoreapp3.1\LOCATION OR POSITION.genruntimeconfig.cache

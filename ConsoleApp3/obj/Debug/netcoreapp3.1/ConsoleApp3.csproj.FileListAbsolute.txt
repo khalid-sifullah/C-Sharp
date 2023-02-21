@@ -1,0 +1,14 @@
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.AssemblyReference.cache
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+G:\C SHARP\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+G:\C SHARP\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+G:\C SHARP\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+G:\C SHARP\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+G:\C SHARP\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+G:\C SHARP\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+G:\C SHARP\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache

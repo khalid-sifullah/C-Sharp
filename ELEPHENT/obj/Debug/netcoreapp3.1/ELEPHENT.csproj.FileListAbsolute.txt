@@ -1,0 +1,14 @@
+C:\C SHARP\ELEPHENT\bin\Debug\netcoreapp3.1\ELEPHENT.exe
+C:\C SHARP\ELEPHENT\bin\Debug\netcoreapp3.1\ELEPHENT.deps.json
+C:\C SHARP\ELEPHENT\bin\Debug\netcoreapp3.1\ELEPHENT.runtimeconfig.json
+C:\C SHARP\ELEPHENT\bin\Debug\netcoreapp3.1\ELEPHENT.runtimeconfig.dev.json
+C:\C SHARP\ELEPHENT\bin\Debug\netcoreapp3.1\ELEPHENT.dll
+C:\C SHARP\ELEPHENT\bin\Debug\netcoreapp3.1\ELEPHENT.pdb
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.csproj.AssemblyReference.cache
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.AssemblyInfoInputs.cache
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.AssemblyInfo.cs
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.csproj.CoreCompileInputs.cache
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.dll
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.pdb
+C:\C SHARP\ELEPHENT\obj\Debug\netcoreapp3.1\ELEPHENT.genruntimeconfig.cache

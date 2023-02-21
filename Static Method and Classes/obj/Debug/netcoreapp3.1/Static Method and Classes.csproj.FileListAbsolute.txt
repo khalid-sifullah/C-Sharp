@@ -1,0 +1,14 @@
+G:\C SHARP\Static Method and Classes\bin\Debug\netcoreapp3.1\Static Method and Classes.exe
+G:\C SHARP\Static Method and Classes\bin\Debug\netcoreapp3.1\Static Method and Classes.deps.json
+G:\C SHARP\Static Method and Classes\bin\Debug\netcoreapp3.1\Static Method and Classes.runtimeconfig.json
+G:\C SHARP\Static Method and Classes\bin\Debug\netcoreapp3.1\Static Method and Classes.runtimeconfig.dev.json
+G:\C SHARP\Static Method and Classes\bin\Debug\netcoreapp3.1\Static Method and Classes.dll
+G:\C SHARP\Static Method and Classes\bin\Debug\netcoreapp3.1\Static Method and Classes.pdb
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.csproj.AssemblyReference.cache
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.AssemblyInfoInputs.cache
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.AssemblyInfo.cs
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.csproj.CoreCompileInputs.cache
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.dll
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.pdb
+G:\C SHARP\Static Method and Classes\obj\Debug\netcoreapp3.1\Static Method and Classes.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\C SHARP\NEARLY LUCKY NUMBER\bin\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.exe
+C:\C SHARP\NEARLY LUCKY NUMBER\bin\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.deps.json
+C:\C SHARP\NEARLY LUCKY NUMBER\bin\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.runtimeconfig.json
+C:\C SHARP\NEARLY LUCKY NUMBER\bin\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.runtimeconfig.dev.json
+C:\C SHARP\NEARLY LUCKY NUMBER\bin\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.dll
+C:\C SHARP\NEARLY LUCKY NUMBER\bin\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.pdb
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.csproj.AssemblyReference.cache
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.AssemblyInfoInputs.cache
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.AssemblyInfo.cs
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.csproj.CoreCompileInputs.cache
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.dll
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.pdb
+C:\C SHARP\NEARLY LUCKY NUMBER\obj\Debug\netcoreapp3.1\NEARLY LUCKY NUMBER.genruntimeconfig.cache

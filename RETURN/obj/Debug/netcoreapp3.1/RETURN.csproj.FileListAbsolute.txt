@@ -1,0 +1,14 @@
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.csproj.AssemblyReference.cache
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.AssemblyInfoInputs.cache
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.AssemblyInfo.cs
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.csproj.CoreCompileInputs.cache
+G:\C SHARP\RETURN\bin\Debug\netcoreapp3.1\RETURN.exe
+G:\C SHARP\RETURN\bin\Debug\netcoreapp3.1\RETURN.deps.json
+G:\C SHARP\RETURN\bin\Debug\netcoreapp3.1\RETURN.runtimeconfig.json
+G:\C SHARP\RETURN\bin\Debug\netcoreapp3.1\RETURN.runtimeconfig.dev.json
+G:\C SHARP\RETURN\bin\Debug\netcoreapp3.1\RETURN.dll
+G:\C SHARP\RETURN\bin\Debug\netcoreapp3.1\RETURN.pdb
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.dll
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.pdb
+G:\C SHARP\RETURN\obj\Debug\netcoreapp3.1\RETURN.genruntimeconfig.cache

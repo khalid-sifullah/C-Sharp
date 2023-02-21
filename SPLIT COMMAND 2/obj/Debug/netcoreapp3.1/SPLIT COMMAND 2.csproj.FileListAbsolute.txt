@@ -1,0 +1,14 @@
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.csproj.AssemblyReference.cache
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.AssemblyInfoInputs.cache
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.AssemblyInfo.cs
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.csproj.CoreCompileInputs.cache
+C:\C SHARP\SPLIT COMMAND 2\bin\Debug\netcoreapp3.1\SPLIT COMMAND 2.exe
+C:\C SHARP\SPLIT COMMAND 2\bin\Debug\netcoreapp3.1\SPLIT COMMAND 2.deps.json
+C:\C SHARP\SPLIT COMMAND 2\bin\Debug\netcoreapp3.1\SPLIT COMMAND 2.runtimeconfig.json
+C:\C SHARP\SPLIT COMMAND 2\bin\Debug\netcoreapp3.1\SPLIT COMMAND 2.runtimeconfig.dev.json
+C:\C SHARP\SPLIT COMMAND 2\bin\Debug\netcoreapp3.1\SPLIT COMMAND 2.dll
+C:\C SHARP\SPLIT COMMAND 2\bin\Debug\netcoreapp3.1\SPLIT COMMAND 2.pdb
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.dll
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.pdb
+C:\C SHARP\SPLIT COMMAND 2\obj\Debug\netcoreapp3.1\SPLIT COMMAND 2.genruntimeconfig.cache

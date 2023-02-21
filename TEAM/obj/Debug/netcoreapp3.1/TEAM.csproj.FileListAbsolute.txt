@@ -1,0 +1,14 @@
+C:\C SHARP\TEAM\bin\Debug\netcoreapp3.1\TEAM.exe
+C:\C SHARP\TEAM\bin\Debug\netcoreapp3.1\TEAM.deps.json
+C:\C SHARP\TEAM\bin\Debug\netcoreapp3.1\TEAM.runtimeconfig.json
+C:\C SHARP\TEAM\bin\Debug\netcoreapp3.1\TEAM.runtimeconfig.dev.json
+C:\C SHARP\TEAM\bin\Debug\netcoreapp3.1\TEAM.dll
+C:\C SHARP\TEAM\bin\Debug\netcoreapp3.1\TEAM.pdb
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.csproj.AssemblyReference.cache
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.AssemblyInfoInputs.cache
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.AssemblyInfo.cs
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.csproj.CoreCompileInputs.cache
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.dll
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.pdb
+C:\C SHARP\TEAM\obj\Debug\netcoreapp3.1\TEAM.genruntimeconfig.cache

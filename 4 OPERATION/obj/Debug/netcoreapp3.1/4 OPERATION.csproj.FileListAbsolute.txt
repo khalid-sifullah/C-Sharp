@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.AssemblyInfo.cs
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4 OPERATION\bin\Debug\netcoreapp3.1\4 OPERATION.exe
+C:\Users\User\source\repos\4 OPERATION\bin\Debug\netcoreapp3.1\4 OPERATION.deps.json
+C:\Users\User\source\repos\4 OPERATION\bin\Debug\netcoreapp3.1\4 OPERATION.runtimeconfig.json
+C:\Users\User\source\repos\4 OPERATION\bin\Debug\netcoreapp3.1\4 OPERATION.runtimeconfig.dev.json
+C:\Users\User\source\repos\4 OPERATION\bin\Debug\netcoreapp3.1\4 OPERATION.dll
+C:\Users\User\source\repos\4 OPERATION\bin\Debug\netcoreapp3.1\4 OPERATION.pdb
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.dll
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.pdb
+C:\Users\User\source\repos\4 OPERATION\obj\Debug\netcoreapp3.1\4 OPERATION.genruntimeconfig.cache

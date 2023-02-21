@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SPILT COMMAND/1.0.0": {
+        "runtime": {
+          "SPILT COMMAND.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SPILT COMMAND/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+G:\C SHARP\SUB-STRING\bin\Debug\netcoreapp3.1\SUB-STRING.exe
+G:\C SHARP\SUB-STRING\bin\Debug\netcoreapp3.1\SUB-STRING.deps.json
+G:\C SHARP\SUB-STRING\bin\Debug\netcoreapp3.1\SUB-STRING.runtimeconfig.json
+G:\C SHARP\SUB-STRING\bin\Debug\netcoreapp3.1\SUB-STRING.runtimeconfig.dev.json
+G:\C SHARP\SUB-STRING\bin\Debug\netcoreapp3.1\SUB-STRING.dll
+G:\C SHARP\SUB-STRING\bin\Debug\netcoreapp3.1\SUB-STRING.pdb
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.csproj.AssemblyReference.cache
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.AssemblyInfoInputs.cache
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.AssemblyInfo.cs
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.csproj.CoreCompileInputs.cache
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.dll
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.pdb
+G:\C SHARP\SUB-STRING\obj\Debug\netcoreapp3.1\SUB-STRING.genruntimeconfig.cache

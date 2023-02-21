@@ -1,0 +1,14 @@
+G:\C SHARP\Convert String to Integer And Double\bin\Debug\netcoreapp3.1\Convert String to Integer And Double.exe
+G:\C SHARP\Convert String to Integer And Double\bin\Debug\netcoreapp3.1\Convert String to Integer And Double.deps.json
+G:\C SHARP\Convert String to Integer And Double\bin\Debug\netcoreapp3.1\Convert String to Integer And Double.runtimeconfig.json
+G:\C SHARP\Convert String to Integer And Double\bin\Debug\netcoreapp3.1\Convert String to Integer And Double.runtimeconfig.dev.json
+G:\C SHARP\Convert String to Integer And Double\bin\Debug\netcoreapp3.1\Convert String to Integer And Double.dll
+G:\C SHARP\Convert String to Integer And Double\bin\Debug\netcoreapp3.1\Convert String to Integer And Double.pdb
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.csproj.AssemblyReference.cache
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.AssemblyInfoInputs.cache
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.AssemblyInfo.cs
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.csproj.CoreCompileInputs.cache
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.dll
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.pdb
+G:\C SHARP\Convert String to Integer And Double\obj\Debug\netcoreapp3.1\Convert String to Integer And Double.genruntimeconfig.cache

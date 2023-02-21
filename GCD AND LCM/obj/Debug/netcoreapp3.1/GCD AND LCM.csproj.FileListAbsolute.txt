@@ -1,0 +1,14 @@
+G:\C SHARP\GCD AND LCM\bin\Debug\netcoreapp3.1\GCD AND LCM.exe
+G:\C SHARP\GCD AND LCM\bin\Debug\netcoreapp3.1\GCD AND LCM.deps.json
+G:\C SHARP\GCD AND LCM\bin\Debug\netcoreapp3.1\GCD AND LCM.runtimeconfig.json
+G:\C SHARP\GCD AND LCM\bin\Debug\netcoreapp3.1\GCD AND LCM.runtimeconfig.dev.json
+G:\C SHARP\GCD AND LCM\bin\Debug\netcoreapp3.1\GCD AND LCM.dll
+G:\C SHARP\GCD AND LCM\bin\Debug\netcoreapp3.1\GCD AND LCM.pdb
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.csproj.AssemblyReference.cache
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.AssemblyInfoInputs.cache
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.AssemblyInfo.cs
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.csproj.CoreCompileInputs.cache
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.dll
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.pdb
+G:\C SHARP\GCD AND LCM\obj\Debug\netcoreapp3.1\GCD AND LCM.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\C SHARP\Way Too Long Words\bin\Debug\netcoreapp3.1\Way Too Long Words.exe
+G:\C SHARP\Way Too Long Words\bin\Debug\netcoreapp3.1\Way Too Long Words.deps.json
+G:\C SHARP\Way Too Long Words\bin\Debug\netcoreapp3.1\Way Too Long Words.runtimeconfig.json
+G:\C SHARP\Way Too Long Words\bin\Debug\netcoreapp3.1\Way Too Long Words.runtimeconfig.dev.json
+G:\C SHARP\Way Too Long Words\bin\Debug\netcoreapp3.1\Way Too Long Words.dll
+G:\C SHARP\Way Too Long Words\bin\Debug\netcoreapp3.1\Way Too Long Words.pdb
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.csproj.AssemblyReference.cache
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.AssemblyInfoInputs.cache
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.AssemblyInfo.cs
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.csproj.CoreCompileInputs.cache
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.dll
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.pdb
+G:\C SHARP\Way Too Long Words\obj\Debug\netcoreapp3.1\Way Too Long Words.genruntimeconfig.cache

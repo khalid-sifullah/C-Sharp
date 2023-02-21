@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.AssemblyInfo.cs
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IF ++\bin\Debug\netcoreapp3.1\IF ++.exe
+C:\Users\User\source\repos\IF ++\bin\Debug\netcoreapp3.1\IF ++.deps.json
+C:\Users\User\source\repos\IF ++\bin\Debug\netcoreapp3.1\IF ++.runtimeconfig.json
+C:\Users\User\source\repos\IF ++\bin\Debug\netcoreapp3.1\IF ++.runtimeconfig.dev.json
+C:\Users\User\source\repos\IF ++\bin\Debug\netcoreapp3.1\IF ++.dll
+C:\Users\User\source\repos\IF ++\bin\Debug\netcoreapp3.1\IF ++.pdb
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.dll
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.pdb
+C:\Users\User\source\repos\IF ++\obj\Debug\netcoreapp3.1\IF ++.genruntimeconfig.cache

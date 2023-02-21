@@ -1,0 +1,14 @@
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.csproj.AssemblyReference.cache
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.AssemblyInfoInputs.cache
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.AssemblyInfo.cs
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.csproj.CoreCompileInputs.cache
+G:\C SHARP\STRING\bin\Debug\netcoreapp3.1\STRING.exe
+G:\C SHARP\STRING\bin\Debug\netcoreapp3.1\STRING.deps.json
+G:\C SHARP\STRING\bin\Debug\netcoreapp3.1\STRING.runtimeconfig.json
+G:\C SHARP\STRING\bin\Debug\netcoreapp3.1\STRING.runtimeconfig.dev.json
+G:\C SHARP\STRING\bin\Debug\netcoreapp3.1\STRING.dll
+G:\C SHARP\STRING\bin\Debug\netcoreapp3.1\STRING.pdb
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.dll
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.pdb
+G:\C SHARP\STRING\obj\Debug\netcoreapp3.1\STRING.genruntimeconfig.cache

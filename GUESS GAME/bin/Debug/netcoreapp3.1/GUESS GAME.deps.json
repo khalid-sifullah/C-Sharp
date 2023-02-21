@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GUESS GAME/1.0.0": {
+        "runtime": {
+          "GUESS GAME.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GUESS GAME/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

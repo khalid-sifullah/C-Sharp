@@ -1,0 +1,14 @@
+G:\C SHARP\STRUCTURE\bin\Debug\netcoreapp3.1\STRUCTURE.exe
+G:\C SHARP\STRUCTURE\bin\Debug\netcoreapp3.1\STRUCTURE.deps.json
+G:\C SHARP\STRUCTURE\bin\Debug\netcoreapp3.1\STRUCTURE.runtimeconfig.json
+G:\C SHARP\STRUCTURE\bin\Debug\netcoreapp3.1\STRUCTURE.runtimeconfig.dev.json
+G:\C SHARP\STRUCTURE\bin\Debug\netcoreapp3.1\STRUCTURE.dll
+G:\C SHARP\STRUCTURE\bin\Debug\netcoreapp3.1\STRUCTURE.pdb
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.csproj.AssemblyReference.cache
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.AssemblyInfoInputs.cache
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.AssemblyInfo.cs
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.csproj.CoreCompileInputs.cache
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.dll
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.pdb
+G:\C SHARP\STRUCTURE\obj\Debug\netcoreapp3.1\STRUCTURE.genruntimeconfig.cache

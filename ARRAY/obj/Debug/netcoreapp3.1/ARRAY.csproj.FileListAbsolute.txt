@@ -1,0 +1,14 @@
+G:\C SHARP\ARRAY\bin\Debug\netcoreapp3.1\ARRAY.exe
+G:\C SHARP\ARRAY\bin\Debug\netcoreapp3.1\ARRAY.deps.json
+G:\C SHARP\ARRAY\bin\Debug\netcoreapp3.1\ARRAY.runtimeconfig.json
+G:\C SHARP\ARRAY\bin\Debug\netcoreapp3.1\ARRAY.runtimeconfig.dev.json
+G:\C SHARP\ARRAY\bin\Debug\netcoreapp3.1\ARRAY.dll
+G:\C SHARP\ARRAY\bin\Debug\netcoreapp3.1\ARRAY.pdb
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.csproj.AssemblyReference.cache
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.AssemblyInfoInputs.cache
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.AssemblyInfo.cs
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.csproj.CoreCompileInputs.cache
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.dll
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.pdb
+G:\C SHARP\ARRAY\obj\Debug\netcoreapp3.1\ARRAY.genruntimeconfig.cache

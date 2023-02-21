@@ -1,0 +1,14 @@
+G:\C SHARP\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+G:\C SHARP\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+G:\C SHARP\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+G:\C SHARP\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+G:\C SHARP\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+G:\C SHARP\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+G:\C SHARP\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache

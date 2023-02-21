@@ -1,0 +1,14 @@
+G:\C SHARP\Sum of Natural number\bin\Debug\netcoreapp3.1\Sum of Natural number.exe
+G:\C SHARP\Sum of Natural number\bin\Debug\netcoreapp3.1\Sum of Natural number.deps.json
+G:\C SHARP\Sum of Natural number\bin\Debug\netcoreapp3.1\Sum of Natural number.runtimeconfig.json
+G:\C SHARP\Sum of Natural number\bin\Debug\netcoreapp3.1\Sum of Natural number.runtimeconfig.dev.json
+G:\C SHARP\Sum of Natural number\bin\Debug\netcoreapp3.1\Sum of Natural number.dll
+G:\C SHARP\Sum of Natural number\bin\Debug\netcoreapp3.1\Sum of Natural number.pdb
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.csproj.AssemblyReference.cache
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.AssemblyInfoInputs.cache
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.AssemblyInfo.cs
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.csproj.CoreCompileInputs.cache
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.dll
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.pdb
+G:\C SHARP\Sum of Natural number\obj\Debug\netcoreapp3.1\Sum of Natural number.genruntimeconfig.cache

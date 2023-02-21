@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\INHERENTENSE\bin\Debug\netcoreapp3.1\INHERENTENSE.exe
+C:\Users\User\source\repos\INHERENTENSE\bin\Debug\netcoreapp3.1\INHERENTENSE.deps.json
+C:\Users\User\source\repos\INHERENTENSE\bin\Debug\netcoreapp3.1\INHERENTENSE.runtimeconfig.json
+C:\Users\User\source\repos\INHERENTENSE\bin\Debug\netcoreapp3.1\INHERENTENSE.runtimeconfig.dev.json
+C:\Users\User\source\repos\INHERENTENSE\bin\Debug\netcoreapp3.1\INHERENTENSE.dll
+C:\Users\User\source\repos\INHERENTENSE\bin\Debug\netcoreapp3.1\INHERENTENSE.pdb
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.AssemblyInfo.cs
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.dll
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.pdb
+C:\Users\User\source\repos\INHERENTENSE\obj\Debug\netcoreapp3.1\INHERENTENSE.genruntimeconfig.cache

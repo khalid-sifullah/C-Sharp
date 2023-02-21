@@ -1,0 +1,14 @@
+C:\C SHARP\SORT\bin\Debug\netcoreapp3.1\SORT.exe
+C:\C SHARP\SORT\bin\Debug\netcoreapp3.1\SORT.deps.json
+C:\C SHARP\SORT\bin\Debug\netcoreapp3.1\SORT.runtimeconfig.json
+C:\C SHARP\SORT\bin\Debug\netcoreapp3.1\SORT.runtimeconfig.dev.json
+C:\C SHARP\SORT\bin\Debug\netcoreapp3.1\SORT.dll
+C:\C SHARP\SORT\bin\Debug\netcoreapp3.1\SORT.pdb
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.csproj.AssemblyReference.cache
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.AssemblyInfoInputs.cache
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.AssemblyInfo.cs
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.csproj.CoreCompileInputs.cache
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.dll
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.pdb
+C:\C SHARP\SORT\obj\Debug\netcoreapp3.1\SORT.genruntimeconfig.cache

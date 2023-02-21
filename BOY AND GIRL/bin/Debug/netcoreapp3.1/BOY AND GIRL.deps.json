@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BOY AND GIRL/1.0.0": {
+        "runtime": {
+          "BOY AND GIRL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BOY AND GIRL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

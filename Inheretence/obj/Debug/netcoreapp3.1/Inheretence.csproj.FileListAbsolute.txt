@@ -1,0 +1,13 @@
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.AssemblyInfoInputs.cache
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.AssemblyInfo.cs
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.csproj.CoreCompileInputs.cache
+G:\C SHARP\Inheretence\bin\Debug\netcoreapp3.1\Inheretence.exe
+G:\C SHARP\Inheretence\bin\Debug\netcoreapp3.1\Inheretence.deps.json
+G:\C SHARP\Inheretence\bin\Debug\netcoreapp3.1\Inheretence.runtimeconfig.json
+G:\C SHARP\Inheretence\bin\Debug\netcoreapp3.1\Inheretence.runtimeconfig.dev.json
+G:\C SHARP\Inheretence\bin\Debug\netcoreapp3.1\Inheretence.dll
+G:\C SHARP\Inheretence\bin\Debug\netcoreapp3.1\Inheretence.pdb
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.dll
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.pdb
+G:\C SHARP\Inheretence\obj\Debug\netcoreapp3.1\Inheretence.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\C SHARP\Power\bin\Debug\netcoreapp3.1\Power.exe
+G:\C SHARP\Power\bin\Debug\netcoreapp3.1\Power.deps.json
+G:\C SHARP\Power\bin\Debug\netcoreapp3.1\Power.runtimeconfig.json
+G:\C SHARP\Power\bin\Debug\netcoreapp3.1\Power.runtimeconfig.dev.json
+G:\C SHARP\Power\bin\Debug\netcoreapp3.1\Power.dll
+G:\C SHARP\Power\bin\Debug\netcoreapp3.1\Power.pdb
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.csproj.AssemblyReference.cache
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.AssemblyInfoInputs.cache
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.AssemblyInfo.cs
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.csproj.CoreCompileInputs.cache
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.dll
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.pdb
+G:\C SHARP\Power\obj\Debug\netcoreapp3.1\Power.genruntimeconfig.cache

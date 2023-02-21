@@ -1,0 +1,14 @@
+G:\C SHARP\LENGTH\bin\Debug\netcoreapp3.1\LENGTH.exe
+G:\C SHARP\LENGTH\bin\Debug\netcoreapp3.1\LENGTH.deps.json
+G:\C SHARP\LENGTH\bin\Debug\netcoreapp3.1\LENGTH.runtimeconfig.json
+G:\C SHARP\LENGTH\bin\Debug\netcoreapp3.1\LENGTH.runtimeconfig.dev.json
+G:\C SHARP\LENGTH\bin\Debug\netcoreapp3.1\LENGTH.dll
+G:\C SHARP\LENGTH\bin\Debug\netcoreapp3.1\LENGTH.pdb
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.csproj.AssemblyReference.cache
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.AssemblyInfoInputs.cache
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.AssemblyInfo.cs
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.csproj.CoreCompileInputs.cache
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.dll
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.pdb
+G:\C SHARP\LENGTH\obj\Debug\netcoreapp3.1\LENGTH.genruntimeconfig.cache

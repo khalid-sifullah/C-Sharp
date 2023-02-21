@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BIGGEST Number\bin\Debug\netcoreapp3.1\BIGGEST Number.exe
+C:\Users\User\source\repos\BIGGEST Number\bin\Debug\netcoreapp3.1\BIGGEST Number.deps.json
+C:\Users\User\source\repos\BIGGEST Number\bin\Debug\netcoreapp3.1\BIGGEST Number.runtimeconfig.json
+C:\Users\User\source\repos\BIGGEST Number\bin\Debug\netcoreapp3.1\BIGGEST Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\BIGGEST Number\bin\Debug\netcoreapp3.1\BIGGEST Number.dll
+C:\Users\User\source\repos\BIGGEST Number\bin\Debug\netcoreapp3.1\BIGGEST Number.pdb
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.AssemblyInfo.cs
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.dll
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.pdb
+C:\Users\User\source\repos\BIGGEST Number\obj\Debug\netcoreapp3.1\BIGGEST Number.genruntimeconfig.cache

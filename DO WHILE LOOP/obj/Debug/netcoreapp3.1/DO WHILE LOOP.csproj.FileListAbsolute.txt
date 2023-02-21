@@ -1,0 +1,14 @@
+G:\C SHARP\DO WHILE LOOP\bin\Debug\netcoreapp3.1\DO WHILE LOOP.exe
+G:\C SHARP\DO WHILE LOOP\bin\Debug\netcoreapp3.1\DO WHILE LOOP.deps.json
+G:\C SHARP\DO WHILE LOOP\bin\Debug\netcoreapp3.1\DO WHILE LOOP.runtimeconfig.json
+G:\C SHARP\DO WHILE LOOP\bin\Debug\netcoreapp3.1\DO WHILE LOOP.runtimeconfig.dev.json
+G:\C SHARP\DO WHILE LOOP\bin\Debug\netcoreapp3.1\DO WHILE LOOP.dll
+G:\C SHARP\DO WHILE LOOP\bin\Debug\netcoreapp3.1\DO WHILE LOOP.pdb
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.csproj.AssemblyReference.cache
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.GeneratedMSBuildEditorConfig.editorconfig
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.AssemblyInfoInputs.cache
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.AssemblyInfo.cs
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.csproj.CoreCompileInputs.cache
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.dll
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.pdb
+G:\C SHARP\DO WHILE LOOP\obj\Debug\netcoreapp3.1\DO WHILE LOOP.genruntimeconfig.cache
